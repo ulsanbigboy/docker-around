@@ -1,0 +1,75 @@
+
+
+
+추석특집 도커 (Docker) 기초 강의 몰아보기
+
+
+
+https://www.youtube.com/watch?v=IqnAiM1A0d8
+
+
+
+조회수 1,103회  2023. 9. 29.  도커(Docker) 기초
+아직 공개되지 않은 영상까지 포함하여 제작하였습니다.
+(나중에 공개될 때도 시청해주세요 ^^)
+
+#chuseok #docker
+
+▶ 어라운드 허브 스튜디오 공식 디스코드 :  
+
+ / discord  
+
+?? GitHub Repositories
+▶ Spring Boot : https://github.com/Around-Hub-Studio/AroundHub_SpringBoot
+▶ Java, Algorithm : https://github.com/Around-Hub-Studio/AroundHub_CodeGround
+▶ JPA : https://github.com/Around-Hub-Studio/around_hub_studio_jpa
+▶ Dart : https://github.com/Around-Hub-Studio/around-hub-dart
+▶ Flutter : https://github.com/Around-Hub-Studio/around_hub_studio_flutter
+▶ Kotlin : https://github.com/Around-Hub-Studio/around-hub-codeground-kotlin
+▶ Kotlin Spring : https://github.com/Around-Hub-Studio/around-hub-spring-kotlin
+▶ Docker : https://github.com/Around-Hub-Studio/around-hub-docker
+
+?? '스프링 부트 핵심 가이드' 도서 구매
+?? yes24 : http://www.yes24.com/Product/Goods/11...
+?? 교보문고 : http://www.kyobobook.co.kr/product/de...
+
+?? 채널의 영상이 마음에 드신다면 기부 개념으로 약 3,000원부터 멤버십 가입이 가능합니다.
+ ??   
+
+ / @around.hub.studio  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====
+====
+====
+
+
+
+
+
+
+
+
+
+
+
+
+
+
